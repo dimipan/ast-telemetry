@@ -1,0 +1,30 @@
+{
+ "hiker": {
+  "units": 472,
+  "alpha_llm": 0.8266675786322153,
+  "alpha_llm_and_expert": 0.7921143855764488,
+  "mae_ensemble_vs_expert": 0.056110169491525426,
+  "pearson_ensemble_vs_expert": 0.7835218775924685
+ },
+ "elderly": {
+  "units": 480,
+  "alpha_llm": 0.7161637727595892,
+  "alpha_llm_and_expert": 0.6870119565593524,
+  "mae_ensemble_vs_expert": 0.06375833333333333,
+  "pearson_ensemble_vs_expert": 0.721320207089756
+ },
+ "child": {
+  "units": 480,
+  "alpha_llm": 0.8532650203381431,
+  "alpha_llm_and_expert": 0.7892023297650952,
+  "mae_ensemble_vs_expert": 0.06565,
+  "pearson_ensemble_vs_expert": 0.7128544648842081
+ },
+ "pooled": {
+  "units": 1432,
+  "alpha_llm": 0.8009546256417742,
+  "alpha_llm_and_expert": 0.7574197365483806,
+  "mae_ensemble_vs_expert": 0.061871508379888265,
+  "pearson_ensemble_vs_expert": 0.7371365944781231
+ }
+}

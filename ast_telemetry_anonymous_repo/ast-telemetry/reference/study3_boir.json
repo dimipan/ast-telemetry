@@ -1,0 +1,20 @@
+{
+ "S1": {
+  "n_trials": 20,
+  "epoch_start_map_errors": "20/40",
+  "confident_wrong_starts": "4/40",
+  "true_hypothesis_resolution_start": 0.4667409767626028,
+  "true_hypothesis_resolution_end": 0.8338608961938411,
+  "si_post_change": 0.014397695579760885,
+  "si_mid_epoch": 0.051324875976483476
+ },
+ "S3": {
+  "n_trials": 20,
+  "epoch_start_map_errors": "60/60",
+  "confident_wrong_starts": "42/60",
+  "true_hypothesis_resolution_start": 0.14150005623082962,
+  "true_hypothesis_resolution_end": 0.9662325705432195,
+  "si_post_change": 0.07459710714157965,
+  "si_mid_epoch": 0.13029561224429168
+ }
+}
